@@ -1,2 +1,5 @@
 # test-repp
-Test Repository
+## TOS
+Terms of service...
+## Privacy Policy
+Privacy Policy...
