@@ -1,2 +1,0 @@
-# TOS
-Terms of service
